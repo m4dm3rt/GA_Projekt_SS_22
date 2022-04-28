@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EscaflowneProject",
+			"Path": "C:\\Users\\Kyss\\Documents\\schule\\git\\ExcaflowneProject\\EscaflowneProject\\Source\\EscaflowneProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EscaflowneProjectEditor",
+			"Path": "C:\\Users\\Kyss\\Documents\\schule\\git\\ExcaflowneProject\\EscaflowneProject\\Source\\EscaflowneProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

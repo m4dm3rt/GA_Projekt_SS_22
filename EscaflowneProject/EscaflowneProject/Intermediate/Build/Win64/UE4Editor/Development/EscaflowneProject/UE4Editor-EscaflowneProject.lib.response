@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EscaflowneProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\EscaflowneProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\UE4Editor\Development\EscaflowneProject\EscaflowneProject.cpp.obj"
+"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\UE4Editor\Development\EscaflowneProject\EscaflowneProjectCharacter.cpp.obj"
+"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\UE4Editor\Development\EscaflowneProject\EscaflowneProjectGameMode.cpp.obj"
+"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\UE4Editor\Development\EscaflowneProject\EscaflowneProject.init.gen.cpp.obj"
+"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\UE4Editor\Development\EscaflowneProject\EscaflowneProjectCharacter.gen.cpp.obj"
+"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\UE4Editor\Development\EscaflowneProject\EscaflowneProjectGameMode.gen.cpp.obj"
+"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\UE4Editor\Development\EscaflowneProject\Default.rc2.res"
+/OUT:"C:\Users\Kyss\Documents\schule\git\ExcaflowneProject\EscaflowneProject\Intermediate\Build\Win64\UE4Editor\Development\EscaflowneProject\UE4Editor-EscaflowneProject.lib"

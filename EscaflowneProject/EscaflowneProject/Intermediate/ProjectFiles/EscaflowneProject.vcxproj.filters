@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EscaflowneProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{29F515F0-7B8D-4324-8EA2-9E274857BEE9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscaflowneProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EscaflowneProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{332736D5-2C6D-4B56-A112-0D6F36D810CD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EscaflowneProject">
+      <UniqueIdentifier>{BD31BD03-DE65-4D24-ADB9-33CB59F87340}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscaflowneProject\EscaflowneProject.Build.cs">
+      <Filter>Source\EscaflowneProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EscaflowneProject\EscaflowneProject.cpp">
+      <Filter>Source\EscaflowneProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscaflowneProject\EscaflowneProject.h">
+      <Filter>Source\EscaflowneProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscaflowneProject\EscaflowneProjectCharacter.cpp">
+      <Filter>Source\EscaflowneProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscaflowneProject\EscaflowneProjectCharacter.h">
+      <Filter>Source\EscaflowneProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscaflowneProject\EscaflowneProjectGameMode.cpp">
+      <Filter>Source\EscaflowneProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscaflowneProject\EscaflowneProjectGameMode.h">
+      <Filter>Source\EscaflowneProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
